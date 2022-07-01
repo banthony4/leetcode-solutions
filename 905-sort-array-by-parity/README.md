@@ -5,16 +5,16 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,1,2,4]
+<pre style="position: relative;"><strong>Input:</strong> nums = [3,1,2,4]
 <strong>Output:</strong> [2,4,3,1]
 <strong>Explanation:</strong> The outputs [4,2,3,1], [2,4,1,3], and [4,2,1,3] would also be accepted.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [0]
+<pre style="position: relative;"><strong>Input:</strong> nums = [0]
 <strong>Output:</strong> [0]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
