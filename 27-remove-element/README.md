@@ -10,7 +10,7 @@
 
 <p>The judge will test your solution with the following code:</p>
 
-<pre style="position: relative;">int[] nums = [...]; // Input array
+<pre>int[] nums = [...]; // Input array
 int val = ...; // Value to remove
 int[] expectedNums = [...]; // The expected answer with correct length.
                             // It is sorted with no values equaling val.
@@ -22,27 +22,27 @@ sort(nums, 0, k); // Sort the first k elements of nums
 for (int i = 0; i &lt; actualLength; i++) {
     assert nums[i] == expectedNums[i];
 }
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>If all assertions pass, then your solution will be <strong>accepted</strong>.</p>
 
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [3,2,2,3], val = 3
+<pre><strong>Input:</strong> nums = [3,2,2,3], val = 3
 <strong>Output:</strong> 2, nums = [2,2,_,_]
 <strong>Explanation:</strong> Your function should return k = 2, with the first two elements of nums being 2.
 It does not matter what you leave beyond the returned k (hence they are underscores).
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [0,1,2,2,3,0,4,2], val = 2
+<pre><strong>Input:</strong> nums = [0,1,2,2,3,0,4,2], val = 2
 <strong>Output:</strong> 5, nums = [0,1,4,0,3,_,_,_]
 <strong>Explanation:</strong> Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4.
 Note that the five elements can be returned in any order.
 It does not matter what you leave beyond the returned k (hence they are underscores).
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
