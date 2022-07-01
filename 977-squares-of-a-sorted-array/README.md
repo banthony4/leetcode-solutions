@@ -3,17 +3,17 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [-4,-1,0,3,10]
+<pre style="position: relative;"><strong>Input:</strong> nums = [-4,-1,0,3,10]
 <strong>Output:</strong> [0,1,9,16,100]
 <strong>Explanation:</strong> After squaring, the array becomes [16,1,0,9,100].
 After sorting, it becomes [0,1,9,16,100].
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [-7,-3,2,3,11]
+<pre style="position: relative;"><strong>Input:</strong> nums = [-7,-3,2,3,11]
 <strong>Output:</strong> [4,9,9,49,121]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
