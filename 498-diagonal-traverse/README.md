@@ -3,15 +3,15 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2021/04/10/diag1-grid.jpg" style="width: 334px; height: 334px;">
-<pre><strong>Input:</strong> mat = [[1,2,3],[4,5,6],[7,8,9]]
+<pre style="position: relative;"><strong>Input:</strong> mat = [[1,2,3],[4,5,6],[7,8,9]]
 <strong>Output:</strong> [1,2,4,7,5,3,6,8,9]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> mat = [[1,2],[3,4]]
+<pre style="position: relative;"><strong>Input:</strong> mat = [[1,2],[3,4]]
 <strong>Output:</strong> [1,2,3,4]
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
