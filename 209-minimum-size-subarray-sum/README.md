@@ -3,22 +3,22 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> target = 7, nums = [2,3,1,2,4,3]
+<pre><strong>Input:</strong> target = 7, nums = [2,3,1,2,4,3]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> The subarray [4,3] has the minimal length under the problem constraint.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> target = 4, nums = [1,4,4]
+<pre><strong>Input:</strong> target = 4, nums = [1,4,4]
 <strong>Output:</strong> 1
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> target = 11, nums = [1,1,1,1,1,1,1,1]
+<pre><strong>Input:</strong> target = 11, nums = [1,1,1,1,1,1,1,1]
 <strong>Output:</strong> 0
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
