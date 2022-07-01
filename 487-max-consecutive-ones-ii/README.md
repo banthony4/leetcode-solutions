@@ -3,16 +3,16 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,0,1,1,0]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,0,1,1,0]
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> Flip the first zero will get the maximum number of consecutive 1s. After flipping, the maximum number of consecutive 1s is 4.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [1,0,1,1,0,1]
+<pre style="position: relative;"><strong>Input:</strong> nums = [1,0,1,1,0,1]
 <strong>Output:</strong> 4
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
