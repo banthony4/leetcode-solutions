@@ -14,24 +14,24 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [3,4,5,1,2]
+<pre style="position: relative;"><strong>Input:</strong> nums = [3,4,5,1,2]
 <strong>Output:</strong> 1
 <strong>Explanation:</strong> The original array was [1,2,3,4,5] rotated 3 times.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [4,5,6,7,0,1,2]
+<pre style="position: relative;"><strong>Input:</strong> nums = [4,5,6,7,0,1,2]
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> The original array was [0,1,2,4,5,6,7] and it was rotated 4 times.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 
-<pre><strong>Input:</strong> nums = [11,13,15,17]
+<pre style="position: relative;"><strong>Input:</strong> nums = [11,13,15,17]
 <strong>Output:</strong> 11
 <strong>Explanation:</strong> The original array was [11,13,15,17] and it was rotated 4 times. 
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
