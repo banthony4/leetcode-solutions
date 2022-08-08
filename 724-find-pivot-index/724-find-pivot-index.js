@@ -3,13 +3,16 @@
  * @return {number}
  */
 var pivotIndex = function(nums) {
+    let sum = 0;
+    for(let num of nums){
+        sum += num
+    }
+    let sumL = 0, sumR = sum;
+    
     for(let i = 0; i < nums.length; i++) {
-        let a = nums.slice(0,i).reduce((a,b) => a + b,0)
-        let b = nums.slice(i + 1).reduce((a,b) => a + b,0)
-        
-        if(a === b){
-            return i
-        }
+        sumR -= nums[i]
+        if(sumL === sumR) return i;
+        sumL += nums[i]
     }
     return -1
 };
